@@ -34,12 +34,12 @@ ul {
     color: black;
 }
 
-.site-nav a:hover,
+.link:hover,
 focus {
     color: var(--hover-button-color);
 }
 
-.site-nav a {
+.link {
     font-family: Roboto, sans-serif;
     font-style: normal;
     font-weight: 500;
