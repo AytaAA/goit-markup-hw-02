@@ -135,6 +135,16 @@ h3 {
     background-color: var(--team-background-color);
 }
 
+.team h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 1.17;
+    color: var(--main-text-color);
+}
 .team h5 {
     font-family: Roboto, sans-serif;
     font-style: normal;
