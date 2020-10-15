@@ -240,7 +240,7 @@ focus {
     color: var(--secondary-color);
 }
 
-.ourprojects button:hover {
+.projectbutton:hover {
     background-color: var(--hover-button-color);
     color: var(--white);
     cursor: pointer;
