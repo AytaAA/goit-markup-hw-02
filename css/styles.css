@@ -49,9 +49,6 @@ focus {
 
     color: var(--main-text-color);
 }
-.contacts {
-    color: var(--secondary-color);
-}
 
 .contacts:hover {
     color: var(--hover-button-color);
@@ -64,6 +61,7 @@ focus {
     font-size: 14px;
     line-height: 16px;
     letter-spacing: 0.02em;
+    color: var(--secondary-color);
 }
 
 .hero {
@@ -82,7 +80,7 @@ focus {
     color: var(--white);
 }
 
-.hero button {
+.herobutton {
     width: 200px;
     height: 50px;
     background: var(--hover-button-color);
@@ -99,7 +97,7 @@ focus {
     cursor: pointer;
 }
 
-h3 {
+.desctitle {
     font-family: Roboto, sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -110,7 +108,7 @@ h3 {
     color: var(--main-text-color);
 }
 
-.description p {
+.desctext {
     font-family: Roboto, sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -120,7 +118,7 @@ h3 {
     color: var(--secondary-color);
 }
 
-.function h2 {
+.functitle {
     font-family: Roboto, sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -135,7 +133,7 @@ h3 {
     background-color: var(--team-background-color);
 }
 
-.team h2 {
+.teamheader {
     font-family: Roboto;
     font-style: normal;
     font-weight: bold;
@@ -145,7 +143,7 @@ h3 {
     letter-spacing: 1.17;
     color: var(--main-text-color);
 }
-.team h5 {
+.teamitem {
     font-family: Roboto, sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -155,7 +153,7 @@ h3 {
     color: var(--main-text-color);
 }
 
-.team p {
+.itemposition {
     font-family: Roboto, sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -183,7 +181,7 @@ h3 {
     background-color: var(--hero-background-color);
 }
 
-address {
+.address {
     font-family: Roboto, sans-serif;
     font-style: normal;
     font-weight: normal;
@@ -208,7 +206,7 @@ address {
     color: var(--hover-button-color);
 }
 
-.ourprojects button {
+.projectbutton {
     font-family: Roboto, sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -222,7 +220,7 @@ address {
     border: 0;
 }
 
-.ourprojects h5 {
+.projecthead {
     font-family: Roboto, sans-serif;
     font-style: normal;
     font-weight: bold;
@@ -232,7 +230,7 @@ address {
     color: var(--main-text-color);
 }
 
-.ourprojects p {
+.projectdesc {
     font-family: Roboto, sans-serif;
     font-style: normal;
     font-weight: normal;
