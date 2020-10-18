@@ -30,7 +30,7 @@ ul {
     color: var(--hover-button-color);
 }
 
-.logo span {
+.logospan {
     color: black;
 }
 
@@ -173,7 +173,7 @@ focus {
     color: var(--hover-button-color);
 }
 
-.footerlogo span {
+.footerlogospan {
     color: var(--white);
 }
 
